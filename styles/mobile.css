@@ -5,3 +5,34 @@
 .nav-bar {
   display: none;
 }
+
+.bg-image {
+  min-height: 200px;
+}
+
+.front-description {
+  position: absolute;
+  padding: 20px 0px 6px 8px;
+  max-height: 205px;
+  max-width: 60%;
+  top: 150px;
+  left: 30px;
+}
+
+.article-details {
+  gap: 18px;
+}
+
+.article-details h1 a {
+  text-decoration: none;
+  color: black;
+  font-weight: 610 ;
+  font-size: 16px;
+  line-height: 20px;
+  font-family: var(--font-family);
+  width: 50%;
+}
+
+.author-section {
+  font-size: 12px;
+}
