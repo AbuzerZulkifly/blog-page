@@ -40,3 +40,10 @@
 .blog-post-container {
   margin-top: 60px;
 }
+
+.footer-container {
+  padding: 32px 0px;
+  padding-right: 18px;
+  align-items: center;
+  background-color: #DCDDDF;
+}
